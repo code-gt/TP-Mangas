@@ -1,0 +1,102 @@
+/* RETROUVEZ LA MAQUETTE DE LA PAGE DANS LE DOSSIER IMAGES / RESULTAT ATTENDU */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,100&display=swap");
+
+/* 
+
+BODY 14px
+
+Utiliser la police Roboto : font-family: "Roboto", sans-serif;
+
+***
+
+HEADER : Padding du header Haut/Bas : 6em - Gauche/Droite 2em
+
+***
+
+<h1> 7em
+
+<h>2 10em
+<h2> #ffab40
+
+Ombre : 4px 8px 16px rgba(0, 0, 0, 0.11);
+
+***
+
+CARD
+
+Title 36px
+
+Séparateur : 40px x 3px - #ffab40
+
+***
+
+Progress bar : 40px de hauteur
+
+***
+
+Bloc auteur + footer : couleur de fond #0dcaf0
+
+<a> #ffab40
+
+*/
+
+body {
+}
+
+.header {
+  /* Image de fond */
+}
+h1 {
+}
+
+h2 {
+}
+
+h2 span {
+}
+
+.no-gutters {
+  /* Gestion de l'ombre de la card horizontale */
+}
+
+/* Création des marges à gauche/droite des images*/
+.left {
+}
+
+.right {
+}
+
+/* Style des cards */
+
+.card-title {
+}
+
+.list-group-item span,
+.card-header span {
+}
+
+.separateur {
+  /* Trait orange sous titre */
+}
+
+.card-btn {
+}
+
+.card-btn a {
+}
+
+.card-btn a:hover {
+}
+
+.progress {
+}
+
+.author {
+}
+
+.auteur {
+}
+
+footer a {
+}
