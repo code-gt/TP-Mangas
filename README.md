@@ -6,7 +6,7 @@ TP Bootstrap spécial mangas / élèves
 1. Créer votre Navbar avec logo centré (pensez Flexbox !)
 
 2. Header : 
-Récupérer le code du premier exemple ici https://getbootstrap.com/docs/5.3/examples/heroes/ et l'adapter à vos besoins
+Récupérer le code source du premier exemple ici https://getbootstrap.com/docs/5.3/examples/heroes/ et l'adapter à vos besoins (ajouter l'image de fond en CSS)
 Les boutons scrollent aux sections concernées
   
 3. Main container : LE CLASSEMENT
