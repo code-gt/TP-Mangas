@@ -17,7 +17,7 @@ Centrer le contenu de vos cards avec flexbox
 4. Second container : LES VENTES
 Construire des Progress Bar
   
-5.Bloc AUTEUR
+5. Bloc AUTEUR
 Personnalisez votre avatar et votre nom !
 
 6. Faire un Footer simple avec lien vers Haut de page
